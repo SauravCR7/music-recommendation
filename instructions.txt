@@ -1,6 +1,0 @@
--The notebook is extremely memory intensive so try and optimize its code.
-
--If you find something useful and interesting post it in this repository.
-
--Any modifications that you want to make, copy the contents of the notebook and upload
- the code using a new noteook.
