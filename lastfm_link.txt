@@ -1,5 +1,2 @@
-jupyter notebook based on:
-https://beckernick.github.io/music_recommender/
-
 download the dataset from this link:
 http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/index.html
